@@ -107,18 +107,6 @@ Current Focus:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryadeep02&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryadeep02&layout=compact&theme=radical" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -138,17 +126,6 @@ Current Focus:
 </div>
 
 ---
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryadeep02&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 
 
 # 🎯 2026 Goals
