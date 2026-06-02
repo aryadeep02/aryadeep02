@@ -149,28 +149,6 @@ Current Focus:
 
 ---
 
-# 💼 Featured Projects
-
-## 🤖 AI & Machine Learning Projects
-
-* Machine Learning Models
-* Data Analysis & Visualization
-* Predictive Analytics
-* AI Powered Applications
-
-## ☕ Java Backend Projects
-
-* Spring Boot REST APIs
-* Microservices Architecture
-* JDBC Applications
-* Authentication & Authorization
-
-## 🌐 Full Stack Applications
-
-* React Frontend
-* Spring Boot Backend
-* MySQL Integration
-* REST API Communication
 
 
 # 🎯 2026 Goals
